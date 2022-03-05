@@ -1,0 +1,9 @@
+.rowLabel {
+    -fx-padding: 0 2 0 2;
+}
+.puzzleNumber {
+    -fx-padding: 0 0 20 0;
+}
+.puzzleView {
+    -fx-padding: 0 0 10 0;
+}

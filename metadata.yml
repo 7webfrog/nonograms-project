@@ -1,0 +1,12 @@
+---
+:id: 77924551
+:submitters:
+- :name: Ryan Lutz
+  :email: rslutz@email.unc.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-05-02 19:46:25.368882000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-05-02 12:46:25.368882000 Z
+:status: processed
+:score: 79.0
